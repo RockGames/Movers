@@ -1,0 +1,12 @@
+package mover;
+
+public class Mover {
+
+   public init(cube, 20, 1);
+   private message("You have started as a mover");
+
+public boolean onStart(Command cmd) {
+    Mover m = (Mover) moved;
+}
+
+}
