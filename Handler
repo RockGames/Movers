@@ -1,0 +1,12 @@
+package TapHandler;
+
+public class Handler extends Mover;
+
+public tap() {
+    if (user.getTouch(TAP){
+        run;
+        startmessage;
+    
+    }
+
+}
