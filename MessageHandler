@@ -1,4 +1,4 @@
 public class Message {
   System.out.println("You have started the game!");
-  
+  System.out.println("You died!");
 }
